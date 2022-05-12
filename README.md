@@ -1,2 +1,2 @@
-# Blender/Python scripts
+# Blender-related Python scripts (exts/autos)
  Coming soon, currently a work-in-progress...
