@@ -1,1 +1,2 @@
-# Blender
+# Blender/Python scripts
+ Coming soon, currently a work-in-progress...
